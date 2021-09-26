@@ -1,0 +1,30 @@
+{
+  "name": "op_music",
+  "version": "7.3.4",
+  "description": "OP Music Bot",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@top-gg/sdk": "^3.1.2",
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.1",
+    "colors": "^1.4.0",
+    "concurrently": "^6.2.1",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^13.1.0",
+    "erela.js": "^2.3.3",
+    "erela.js-deezer": "^1.0.7",
+    "erela.js-facebook": "^1.0.3",
+    "erela.js-spotify": "^1.2.0",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.15",
+    "pm2": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

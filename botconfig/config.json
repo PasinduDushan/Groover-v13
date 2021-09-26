@@ -1,0 +1,66 @@
+{
+   "token": "NzY3MDYwNzEzOTUyNzcyMDk2.X4sa9Q.M6yatXn5SDci84QxCbEPTN2Liho",
+   "mongo": "mongodb+srv://Admin:Admin1234@groover-data-access.jajxb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "prefix": "gr!",
+   "spotify": {
+      "clientSecret": "2b91fb68a6d94cce82adfc72b0486c57",
+      "clientID": "60e2392723eb4b3eaa3bbef95d618ed6"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "progressbar_emoji": "🔘",
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 180000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 180000
+      },
+      "selfDeaf": true,
+      "serverDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+      "ksoft_api": {
+         "use_this_instead": false,
+         "api_key": ""
+      }
+   },
+   "links": {
+      "server": "https://discord.gg/4x4MHGHUXC",
+      "opmusicinv": "https://discord.com/oauth2/authorize?client_id=765175524594548737&permissions=8&scope=bot",
+      "opmusicvote": "https://top.gg/bot/765175524594548737/vote"
+   },
+   "ownerIDS": [
+      "726481895961002065"
+   ],
+   "status": {
+      "text": "gr!play",
+      "type": "LISTENING"
+   },
+   "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "slashCommandsDirs": [
+        {
+                "Folder": "Info",
+                "CmdName": "info",
+                "CmdDescription": "Grant specific Information about something!"
+        },
+        {
+                "Folder": "Admin",
+                "CmdName": "admin",
+                "CmdDescription": "Administrate the Server!"
+        },
+        {
+                "Folder": "Groover",
+                "CmdName": "groover",
+                "CmdDescription": "Music Commands"
+        },
+        {
+                "Folder": "pl",
+                "CmdName": "pl",
+                "CmdDescription": "Custom Playlist Commands"
+        }
+   ]
+}
