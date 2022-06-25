@@ -1,6 +1,6 @@
 {
-   "token": "NzY3MDYwNzEzOTUyNzcyMDk2.X4sa9Q.M6yatXn5SDci84QxCbEPTN2Liho",
-   "mongo": "mongodb+srv://Admin:Admin1234@groover-data-access.jajxb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+   "token": "",
+   "mongo": "",
    "prefix": "gr!",
    "spotify": {
       "clientSecret": "2b91fb68a6d94cce82adfc72b0486c57",
